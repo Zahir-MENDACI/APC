@@ -1,0 +1,41 @@
+.body
+{
+    width: 80vw;
+    min-height: 100vh;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+.form
+{
+    width: 60vw;
+    margin: auto;
+    border: 2px solid #a3a6a8;
+    border-radius: 10px;
+    margin-top: 10vh;
+}
+.formmsg
+{
+    width: 30vw;
+    margin: auto;
+    margin-top: 5vh;
+}
+.msgr
+{
+    border: 1px solid ;
+}
+.msg
+{
+    margin-left: -1vw;
+}
+#aa
+{
+    width: 75vw;
+    margin: auto;
+}
+#navs
+{
+    margin-top: 12vh;
+    width: auto;
+    white-space:nowrap;
+}

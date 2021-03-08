@@ -1,0 +1,54 @@
+h4
+{
+        text-align: center;
+        white-space:nowrap;
+
+
+}
+#Texte
+{
+    width: auto;
+    margin: auto;    
+}
+img
+{
+    width: 10vw;
+}
+#img
+{
+    float: right;
+}
+#navbar
+{
+   background-color: #b4b6b8;
+   border-radius: 5px;
+}
+.navig
+{
+    width: 75vw;
+    margin: auto;
+}
+#a:hover
+{
+    color: #b3d2ef;
+}
+li
+{
+    margin-right: 3vw;
+}
+#c
+{
+    color: #eaf2ff;
+    margin-left: 23vw;
+    margin-top: 1.3vh;
+}
+#dec
+{
+    color: rgb(103, 152, 224)
+}
+.co
+{
+    color: #eaf2ff;
+    margin-left: 25vw;
+    margin-top: 0.5vh;
+}

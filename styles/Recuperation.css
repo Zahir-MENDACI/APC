@@ -1,0 +1,23 @@
+.body
+{
+    width: 80vw;
+    min-height: 100vh;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+#form
+{   
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 2vh;
+    width: 400px;
+}
+#champ
+{
+    margin-top: 5vh;
+}
+#Titre
+{
+    margin-top: 8vh;
+}

@@ -1,0 +1,22 @@
+.body
+{
+    width: 80vw;
+    min-height: 100vh;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+.a
+{
+    display: flex;
+}
+form
+{
+    margin-top: 10vh;
+}
+#btn
+{
+    margin-top: 3.8vh;
+    margin: 8px;
+    float: right;
+}

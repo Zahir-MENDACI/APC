@@ -1,0 +1,30 @@
+.body
+{
+    width: 80vw;
+    min-height: 100vh;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+#form
+{   border: 1px solid #d1d1d1;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 9vh;
+    width: 17vw;
+    float: right;
+    margin-right: 5vh;
+}
+#card
+{
+    margin-top: 9vh;
+    width: 45vw;
+}
+#h2
+{
+    color: black
+}
+#h5
+{
+    color: #605f5f
+}
